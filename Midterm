@@ -98,3 +98,7 @@ MS Project, MS Visio, MS Office
 
 </html>
 
+head,title,body {
+  font-family: Arial;}
+title {text-align: center;}
+body {margin: 20px;}
