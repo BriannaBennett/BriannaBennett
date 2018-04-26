@@ -1,0 +1,47 @@
+<h1>These are my favorite things</h1>
+<h2>My Movies</h2>
+<h3> Movies that I love </h3>
+<ol>
+  <li><a href="https://www.imdb.com/title/tt0317248/">City of God</a>
+</li>
+  <li><a href="https://www.imdb.com/title/tt0106519/?ref_=nv_sr_1">Carlito's Way</a></li>
+  <li><a href="https://www.imdb.com/title/tt0097493/?ref_=nv_sr_2">Heathers</a></li>
+  <li><a href="https://www.imdb.com/title/tt0103859/?ref_=fn_al_tt_1">Boomerang</a></li>
+  <li><a href="https://www.imdb.com/title/tt0093058/?ref_=nv_sr_1">Full Metal Jacket</a></li>
+</ol>
+<h2>My Foods</h2>
+<h3> What I would eat everyday for the rest of my life </h3>
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Oxtail">Oxtail</a>
+</li>
+  <li><a href="https://en.wikipedia.org/wiki/Ackee_and_saltfish">Ackee & Saltfish</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Jamaican_patty">Patty</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Shrimp_curry">Curry Shrimp</a></li>
+  <li><a href="https://www.walmart.com/ip/Easter-Bun-Cheese-Pack/638826834">Bun & Cheese</a></li>
+</ol>
+<h2>My Shows</h2>
+<h3> Shows that I can watch over and over again </h3>
+<ol>
+  <li><a href="https://www.imdb.com/title/tt0944947/?ref_=nv_sr_1">Game of Thrones</a>
+</li>
+<li><a href="https://www.imdb.com/title/tt5024912/">Insecure</a>
+</li>
+<li><a href="https://www.imdb.com/title/tt0092400/?ref_=nv_sr_1">Married with Children</a>
+</li>
+<li><a href="https://www.imdb.com/title/tt0804503/?ref_=fn_al_tt_1">Mad Men</a>
+</li>
+<li><a href="https://www.imdb.com/title/tt0092339/?ref_=nv_sr_2">A Different World</a>
+</li>
+</ol>
+<h2>My Music</h2>
+<h3> Soundtrack to my life </h3>
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Control_(Janet_Jackson_album)">Control by Janet Jackson</a>
+</li>
+  <li><a href="https://en.wikipedia.org/wiki/Sign_o%27_the_Times">Sign o' the Times by Prince</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Graduation_(album)">Graduation by Kanye West</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Faith_(George_Michael_album)">Faith by George Michael</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/On_the_Rise">On the Rise by The S.O.S. Band</a></li>
+</ol>
+
+
