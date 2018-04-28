@@ -1,0 +1,8 @@
+<table border="2"      bgcolor="#efefef">  <tr>       <th>Course Number</th>   <th>Course Name</th>   <th >Credits</th><th>Teacher</th> </tr> <tr>  </tr><tr>        <td>11955</td>    <td>Finance Principles</td>  <td>3</td>  <td>Dr. Denise Streeter</td>
+</tr><tr>        <td>11933</td>    <td>Managerial Economics</td>  <td>3</td>  <td>Dr. Lynne Kelly</td>
+</tr>   <tr>        <td>13615</td> <td>Management & OB</td>  <td>3</td>  <td>Mrs. Amanda Hinojosa</td> <tr>        <td>16537</td> <td>Web Authoring Tools</td>  <td>3</td>  <td>Mr. Alton Henley</td>
+</tr>
+</table>
+
+
+
