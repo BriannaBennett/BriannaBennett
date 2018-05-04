@@ -1,0 +1,87 @@
+<html>
+<div id="margins">
+<head>
+<title>Hire Me</title>
+<style>
+#pic {padding-bottom: 30px;
+  padding-left: 100px;}
+
+#part1 {
+  text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(192,192,192);
+    padding-top: 30 px;
+   
+}
+#resume{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+h1{
+  font-family:"sans-serif",sans-serif;
+color:black}
+
+#secondary{
+  font-family:sans-serif;
+  font-size: 20px ;
+}
+#entry{font-family:"Arial",sans-serif;}
+
+h2{color: Black}
+</style>
+</head>
+<a href="#entry">objective</a> - 
+<a href="#edu">experience</a> -
+<a href="#exp">education</a> -
+<a href="#tech">skills</a> 
+<div id="resume"/>
+ <body>
+<h1 id="part1">
+<strong>Brianna Bennett</strong> <img id="pic" src="https://upload.wikimedia.org/wikipedia/en/a/a3/Howard_University_seal.svg" alt="Sheriel" valign="middle"/></h1>
+<p>
+West Palm Beach, FL | (561)-889-9992 | <a href="mailtp:brianna.bennett@bison.howard.edu">brianna.bennett@bison.howard.edu</a> 
+</p>
+<h2 id="entry">
+</h2><p>
+<h1 id="entry">
+objectives
+</h1><p>
+To build a long-term career in technology with opportunities for career growth.
+</p>
+
+
+
+<h1 id="edu">experience</h1>
+<p id="secondary">
+<h2>
+Howard University, College Hall Concierge, Washington, D.C. October 2016 – Present</h2>
+ <ul>
+ <li>Documented information about residents and guests who entered and exited the facility.</li>
+<li>Greeted residents and guests upon arrival and departure on a daily basis.</li>
+<li>Received and fulfilled special guest arrangement requests.</li>
+</ul></p>
+<p>
+Pursuing a B.B.A in Computer Information Systems 
+</p>
+<h1 id="exp">education</h1>
+<p id="secondary">
+<h2>
+Howard University, Washington D.C.</h2>
+<ul>
+
+<li>Expected Graduation Date: May 2019</li>
+<li>BBA: Computer Information Systems</li>
+<li>GPA: 3.71</li> </ul></p>
+
+
+<h1 id="tech">skills</h1>
+
+<p><strong>Applications & Software </strong><p>
+<ul>
+<li>Microsoft Word</li>
+<li>Microsoft Excel</li>
+<li>Microsoft Powerpoin</li>
+<li>Adobe InDesign</li>
+</ul>
+</body></div>
+</html>
