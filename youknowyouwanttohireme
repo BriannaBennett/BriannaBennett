@@ -1,0 +1,34 @@
+<h1>You know you want to hire me!</h1>
+
+
+<form
+
+<p>What is your company name?</p>
+<textarea name="comments"   cols="20" rows="4">   Enter your response...</textarea>
+
+<p>What position is available?</p>
+<textarea name="comments"   cols="20" rows="4">  Enter your response...</textarea>
+
+<p>Where are you located?</p>
+<textarea name="comments"   cols="20" rows="4">  Enter your response...</textarea>
+
+<p>Number of vacation days?</p>
+<input id="number" type="number">
+
+<p>What is the salary ($) ?</p>
+<input id="number" type="number">
+
+
+
+<p><form action="http://eg.com/add.php">
+<button>  <img src="images/add.gif" alt="add"    width="10" height="20" /></button>
+<input type="hidden" name="password"   value="password" /></form></p>
+
+</form>
+
+
+
+<input type="submit" value="Submit" />
+
+
+
