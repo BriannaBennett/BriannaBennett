@@ -1,0 +1,62 @@
+<html>
+<body>
+
+<h1 id="top">Bring it all together!</h1>
+<h3> My favorite albums from different genres </h3>
+
+<a href="#Pop">Pop</a>
+&nbsp;&nbsp;<a href="#Rap">Rap</a>&nbsp;&nbsp;
+<a href="#Rock">Rock</a>
+
+<br/>
+<h2 id="Pop">Pop</h2>
+&nbsp;&nbsp;<a href="#Rap">Rap</a>
+&nbsp;&nbsp;<a href="#Rock">Rock</a>
+
+
+<ol>
+<li><b>Sign o the times</b> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Prince_sign-o-the-times_250.jpg" alt="Good" width="300" height="300" />
+</li> <br/>
+<li><b>Faith</b><img src="https://upload.wikimedia.org/wikipedia/en/3/3a/GeorgeMichaelFaithAlbumcover.jpg" alt="Nothing" width="300" height="300" />
+</li> <br/>
+<li><b>Madonna</b>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Madonna%2C_debut_album_cover.png" width="300" height="300" /></li>
+</ol>
+<br/>
+
+
+
+<h2 id="Rap">Rap</h2>
+  <a href="#Pop">Pop</a>
+&nbsp;&nbsp;<a href="#Rock">Rock</a>
+<ol>
+<li><b> Reasonable Doubt</b>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f5/Reasonable_Doubt_New.jpg" /></li> <br/>
+<li><b>In My Lifetime </b> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Jayz_inmylifetime.jpg/220px-Jayz_inmylifetime.jpg" alt="Studio" width="300" height="300" />
+</li>
+<br/>
+<li><b>
+Born Sinner</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/2/21/J_Cole_Born_Sinner1.jpg" width="300" height="300" /></li>
+</ol>
+<br/>
+
+<h2 id="Rock">Rock</h2>
+  <a href="#Rap">Rap</a>
+&nbsp;&nbsp;<a href="#Pop">Pop</a>
+<br/>
+<ol>
+
+<li><b> Rush</b>
+<img src="https://upload.wikimedia.org/wikipedia/en/9/92/Rush_self_titled.jpg" /></li> <br/>
+<li><b>Let it Bleed</b> <img src="https://upload.wikimedia.org/wikipedia/en/c/c0/LetitbleedRS.jpg" alt="Studio" width="300" height="300" />
+</li>
+<br/>
+<li><b>
+Eagles</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/The_Eagles_-_The_Eagles.jpeg" width="300" height="300" /></li>
+</ol>
+<br/>
+<a href="#top">Top</a>
+</body>
+</html>
